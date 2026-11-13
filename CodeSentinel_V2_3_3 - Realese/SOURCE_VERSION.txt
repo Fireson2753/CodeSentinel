@@ -1,0 +1,2 @@
+Source: CodeSentinel V2.3.3 Correlation Fix (unchanged application source)
+Release kit adds only icon and Windows build instructions.
