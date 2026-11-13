@@ -2,6 +2,20 @@
 
 Static, read-only Python/Lua/Luau/JS source scanner. **Never executes inspected code.**
 
+# 🛡️ CodeSentinel
+
+**Don't trust us. Trust the CODE.**
+
+### 🚀 Download CodeSentinel for Windows
+
+**[⬇️ Download the latest release](https://github.com/Fireson2753/CodeSentinel/releases/latest)**
+
+No Python installation required for the packaged Windows executable.
+
+CodeSentinel is a free, open-source static security analyzer for Python, Lua/Luau and JavaScript.
+
+> **Note:** CodeSentinel is an experimental static analyzer, not an antivirus. Zero findings does not guarantee safety.
+
 ## Run
 
 ```bash
